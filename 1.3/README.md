@@ -17,7 +17,7 @@ react is not do any rocket scinnce performence improvnet , we have compitior sve
 
 ## React did?
 
-- vertual dom batch update using diffing algorithim
+- vertual dom batch update using diffing algorithim / Reconciliation algorithom
 
 ## Batch Update
 
